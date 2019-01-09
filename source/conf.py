@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = u'Konie Documentation'
-copyright = u'2019, Simple Solutions'
-author = u'Simple Solutions'
+copyright = u'2019'
+author = u''
 
 # The short X.Y version
 version = u''
@@ -132,7 +132,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'KonieDocumentation.tex', u'Konie Documentation Documentation',
-     u'Simple Solutions', 'manual'),
+     u'Konie', 'manual'),
 ]
 
 

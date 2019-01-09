@@ -14,7 +14,6 @@ Guide
    :maxdepth: 2
    :caption: Contents:
 
-   index
    started
    wax
    production
@@ -22,8 +21,6 @@ Guide
 
 The Problem
 ^^^^^^^^^^^
-
-Konie Cups uses SAP for the administration work, but they cant use the 
 
  Konie Cups is a manufacturer of paper cups. Currently, the overlaying administrative tool is SAP, which does not help with optimizing and controlling the manufaturing process. Using SAP it is currently impossible to relate a new product (Paper Rolls) with a the final product (Paper Cups).
 
